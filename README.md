@@ -4,6 +4,8 @@ Jake Kingdon
 Lab 9 README
 April 12th, 2023. 
 
-In this sketch, I created 50 stop sign sprites that randomly bounce off the walls in both the x and y directions. The velocitys of the stop signs are random to add a cool effect. In addition to randomizing the velocitys, I Modified the move() and added an "if" statement to check if the stop signs interact with the edge of the canvas, for when they hit both the x and y edges/positions. Finally, I modified the show() function with my stop sign sprite code. 
+In this sketch, I created 50 stop sign sprites that randomly bounce off the walls in both the x and y directions. The velocitys of the stop signs are random to add a cool effect. 
+
+In addition to randomizing the velocitys, I Modified the move() and added an "if" statement to check if the stop signs interact with the edge of the canvas, for when they hit both the x and y edges/positions. Finally, I modified the show() function with my stop sign sprite code. 
 
 Link: https://editor.p5js.org/Jake_Kingdon02/sketches/qUMOOUcuU
